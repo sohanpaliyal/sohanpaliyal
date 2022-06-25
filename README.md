@@ -1,6 +1,6 @@
-- **👋 Hi , I am Sohan Paliyal**
-- 👀 I’m interested in JavaScript
-- 😐 I have a love/hate relationship with Programming 
+### 👋 Hi , I am Sohan Paliyal
+ 👀 I’m interested in JavaScript
+ 😐 I have a love/hate relationship with Programming 
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohanpaliyal ) -->
 <!-- [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sohanpaliyal/?hl=en) -->
