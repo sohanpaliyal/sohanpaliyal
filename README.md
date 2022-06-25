@@ -1,4 +1,4 @@
-- 👋 ### Hi , I am Sohan Paliyal
+- _👋 Hi , I am Sohan Paliyal_
 - 👀 I’m interested in JavaScript
 - 😐 I have a love/hate relationship with Programming 
 
