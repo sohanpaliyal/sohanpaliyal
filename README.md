@@ -1,13 +1,23 @@
-### 👋 Hi , I am Sohan Paliyal
+### 👋 Hi, I'm Sohan Paliyal
 
- 👀 I’m interested in JavaScript
- 
+👀 I’m passionate about JavaScript, Angular, React, frontend development, UI design, and TypeScript.
 
-<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohanpaliyal ) -->
-<!-- [![Linkedin Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sohanpaliyal/?hl=en) -->
+<h2 align="center">⚡ Skills ⚡</h2>
 
- <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+- **JavaScript:** Proficient in modern JavaScript, with a strong understanding of ES6+ features and best practices.
+
+- **Angular:** Experienced in building robust and scalable web applications using Angular framework.
+
+- **React:** Skilled in developing interactive and efficient user interfaces with React library.
+
+- **Frontend Development:** Adept at creating responsive and visually appealing frontend applications.
+
+- **UI Design:** Knowledgeable in UI/UX design principles, creating intuitive and user-friendly interfaces.
+
+- **TypeScript:** Familiar with TypeScript for building more maintainable and scalable code.
+
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
 <p align=center>
   <div align=center>
     <a href="https://github.com/sohanpaliyal/github-readme-streak-stats" title="Go to Source">
@@ -26,13 +36,13 @@
   <br>
 </p>
 
+<h2 align="center">🌐 Connect with Me 🌐</h2>
 
+<div align="center">
+  <!-- Add your social links here -->
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohanpaliyal)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sohanpaliyal/?hl=en)
+  <!-- Add more if needed -->
+</div>
 
 [![Check out sohanpaliyal's profile on stardev.io](https://stardev.io/developers/sohanpaliyal/badge/languages/locality.svg)](https://stardev.io/developers/sohanpaliyal)
-
-
-
-<!---
-sohanpaliyal/sohanpaliyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
