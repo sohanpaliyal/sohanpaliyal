@@ -36,13 +36,4 @@
   <br>
 </p>
 
-<h2 align="center">🌐 Connect with Me 🌐</h2>
-
-<div align="center">
-  <!-- Add your social links here -->
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sohanpaliyal)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sohanpaliyal/?hl=en)
-  <!-- Add more if needed -->
-</div>
-
 [![Check out sohanpaliyal's profile on stardev.io](https://stardev.io/developers/sohanpaliyal/badge/languages/locality.svg)](https://stardev.io/developers/sohanpaliyal)
