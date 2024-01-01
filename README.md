@@ -1,20 +1,6 @@
 ### 👋 Hi, I'm Sohan Paliyal
 
-👀 I’m passionate about JavaScript, Angular, React, frontend development, UI design, and TypeScript.
-
-<h2 align="center">⚡ Skills ⚡</h2>
-
-- **JavaScript:** Proficient in modern JavaScript, with a strong understanding of ES6+ features and best practices.
-
-- **Angular:** Experienced in building robust and scalable web applications using Angular framework.
-
-- **React:** Skilled in developing interactive and efficient user interfaces with React library.
-
-- **Frontend Development:** Adept at creating responsive and visually appealing frontend applications.
-
-- **UI Design:** Knowledgeable in UI/UX design principles, creating intuitive and user-friendly interfaces.
-
-- **TypeScript:** Familiar with TypeScript for building more maintainable and scalable code.
+👀 I’m here to talk about JavaScript, Angular, React, frontend development, UI design, and TypeScript.
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
