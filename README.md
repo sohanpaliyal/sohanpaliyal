@@ -3,7 +3,7 @@
 
 📍 Jodhpur, Rajasthan, India  
 📧 officialsohanpaliyal@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/)
+🔗 [LinkedIn](https://www.linkedin.com/) • [GitHub](https://github.com/) • [Dev.to](https://dev.to/sohanpaliyal) • [X](https://x.com/sohanpaliyal)
 
 Frontend Developer with **4.5+ years of experience** building scalable, high-performance web applications using **React, Angular, TypeScript, and JavaScript**.  
 Strong expertise in **UI architecture, state management (Redux Toolkit, RxJS), REST APIs, real-time features**, and **performance optimization (Core Web Vitals: LCP, FCP, CLS)**.
