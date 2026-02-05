@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Sohan Paliyal  
 ### Frontend Engineer | React • Angular • TypeScript
+Trying to remove friction people already hate.
 
 📍 Jodhpur, Rajasthan, India  
 📧 officialsohanpaliyal@gmail.com  
