@@ -64,7 +64,7 @@ A personal side project focused on building **fast, focused developer & SEO util
 **Tech Stack**
 React, TypeScript, Vite, Tailwind CSS, SEO optimization, Analytics
 
-🔗 https://dailydevtools.com
+🔗 https://dailydev.tools
 
 ---
 
